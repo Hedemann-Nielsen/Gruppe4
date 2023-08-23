@@ -9,13 +9,14 @@ h1 {
     padding: 52px;
     font-size: 45px;
 }
-a {
+.back, a {
     padding: 10px;
     font-size: 45px;
     text-decoration: none;
+    color: #FFFFFF;
 }
 
-h1, a{
+h1, .back{
     width: 100%;
     line-height: 55px;
     color: #FFFFFF;
